@@ -13,6 +13,12 @@ Everything runs on Docker. In order to start playing, just spin up the container
 sh scripts/serve.sh
 ```
 
+You can start programming by opening Jupyter Lab screen in your browser:
+```
+http://127.0.0.1:8888/?token={TOKEN-GENERATED}
+```
+or click in the terminal output url.
+
 
 ## Acknoledgement
 
